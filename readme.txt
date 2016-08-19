@@ -1,4 +1,2 @@
-my first time to learn git
-the first time really write a project!
-move on changle!
-move on!
+git is a version control system
+git is a free software
